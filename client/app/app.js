@@ -24,8 +24,7 @@ angular.module('zibzoo', [
   'zibzoo.merchant.order',
   'zibzoo.socketFactory',
   'zibzoo.location.factory',
-  'zibzoo.customer.profile',
-  'zibzoo.location.factory'
+  'zibzoo.customer.profile'
 ])
 
   .config(function ($stateProvider, $urlRouterProvider, $httpProvider) {
