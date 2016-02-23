@@ -4,6 +4,7 @@ angular.module('zibzoo', [
   'uiGmapgoogle-maps',
   'ngAnimate',
   'zibzoo.navbar.directive',
+  'zibzoo.footer.directive',
   'zibzoo.vendors.directive',
   'zibzoo.filtermenu.directive',
   'zibzoo.places.directive',

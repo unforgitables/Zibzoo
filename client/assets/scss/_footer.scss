@@ -1,0 +1,32 @@
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: $white-smoke;  
+
+  .footer {
+    padding: rem-calc(12) 0;
+
+    .copyright {
+      float: left;
+      color: $jumbo;
+      font-size: rem-calc(14);
+      margin-bottom: 0;
+    }
+
+    .footer-links {
+      float: right;
+      margin-bottom: 0;
+
+      a {
+        font-size: rem-calc(14);
+        color: $jumbo;
+        padding-left: rem-calc(24);
+
+        &:hover {
+          text-decoration: underline;
+        }
+      }
+    }
+  }
+}
