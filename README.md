@@ -37,8 +37,8 @@ Spec : contains all Should.Js / Karma tests which are split up into a client and
 Zibzoo
   |-client
   |---app             # Views / Controllers / Factories
-  |---assets          # SASS files
-  |---build           # SASS files
+  |---assets          # Stylesheets, images, and fonts
+  |---build           # Compiled / minified assets, JavaScripts, and modules
   |-server            # NodeMailer / Socket.io files
   |---config          # Middleware
   |---db
