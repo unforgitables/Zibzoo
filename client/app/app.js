@@ -4,6 +4,7 @@ angular.module('zibzoo', [
   'uiGmapgoogle-maps',
   'ngAnimate',
   'zibzoo.navbar.directive',
+  'zibzoo.footer.directive',
   'zibzoo.vendors.directive',
   'zibzoo.filtermenu.directive',
   'zibzoo.places.directive',
@@ -23,8 +24,7 @@ angular.module('zibzoo', [
   'zibzoo.merchant.order',
   'zibzoo.socketFactory',
   'zibzoo.location.factory',
-  'zibzoo.customer.profile',
-  'zibzoo.location.factory'
+  'zibzoo.customer.profile'
 ])
 
   .config(function ($stateProvider, $urlRouterProvider, $httpProvider) {
