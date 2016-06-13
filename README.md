@@ -2,6 +2,9 @@
 
 [![Build Status](https://travis-ci.org/unforgitables/zibzoo.svg?branch=master)](https://travis-ci.org/unforgitables/zibzoo)
 
+
+[Live](http://www.zibzoo.com/)
+
 A food truck ordering web application that helps you avoid the lines, and connects vendors to its users in real time.
 
 For more information check out [Our_Story.md](Our_Story.md)
@@ -12,7 +15,7 @@ Getting started is simple, run
  npm install
  npm start
 ```
-Once you have finished that you will to obtain your won api keys.
+Once you have finished that you will to obtain your own api keys.
 
 # Choice of Technologies
 - Angular
