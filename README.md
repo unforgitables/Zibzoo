@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/unforgitables/zibzoo.svg?branch=master)](https://travis-ci.org/unforgitables/zibzoo)
 
 
-[Live](http://www.zibzoo.com/)
+##[Live](http://www.zibzoo.com/)
 
 A food truck ordering web application that helps you avoid the lines, and connects vendors to its users in real time.
 
